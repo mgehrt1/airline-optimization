@@ -1,0 +1,1 @@
+This file is not in DOT format, so it should cause an exception to be thrown

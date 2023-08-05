@@ -1,0 +1,5 @@
+Appleton -> Brunswick [label=4]
+Appleton -> Houston [label=3]
+Appleton -> Melbourne [label=6]
+Brunswick -> Melbourne [label=9]
+Houston -> Delaware [label=5]
