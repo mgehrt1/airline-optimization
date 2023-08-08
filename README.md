@@ -24,7 +24,7 @@ make run
 
 ### 4) Load a map
 
-You can use testEmployees.txt for an example file
+You can use TestMap.txt for an example file
 
 Select the "L" command, and enter TestMap.txt
 
